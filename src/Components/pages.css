@@ -1,0 +1,17 @@
+
+
+body{
+    background: rgb(63, 125, 123);
+    background: radial-gradient(circle, rgb(145, 152, 138) 0%, rgb(74, 92, 68) 77%, rgb(97, 114, 102) 100%);
+}
+
+.contHead{
+    margin-left: 15%;
+    font-size: 400%;  
+}
+
+.formHead{
+    font-size: 250%;
+}
+
+
